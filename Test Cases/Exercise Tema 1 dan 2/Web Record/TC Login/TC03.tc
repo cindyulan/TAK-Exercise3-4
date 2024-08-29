@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Login Negative - Invalid Password</description>
+   <name>TC03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83a16aa1-c1d0-4baf-b70c-b2afbc2f3398</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>924b67c0-4744-4531-a6de-90e6a4ff300f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8da8681-b069-4746-a598-6e7d47258ebf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>924b67c0-4744-4531-a6de-90e6a4ff300f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'8SQVv/p9jVScEs4/2CZsLw=='</defaultValue>
+      <description></description>
+      <id>b8da8681-b069-4746-a598-6e7d47258ebf</id>
+      <masked>false</masked>
+      <name>password_failed1</name>
+   </variable>
+</TestCaseEntity>

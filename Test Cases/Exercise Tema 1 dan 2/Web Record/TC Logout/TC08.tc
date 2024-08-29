@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Positive - Logout</description>
+   <name>TC08</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a12c2e69-f1cb-4178-8521-293130fc411f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Failed (Username Failed)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85ce5de6-4494-4313-be99-20343c98aa59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>934ac076-a9e4-4646-a93e-68c1e6bfe13d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>862e0743-dea5-4f1d-9bc7-70aa6b558380</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cindy'</defaultValue>
+      <description></description>
+      <id>934ac076-a9e4-4646-a93e-68c1e6bfe13d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>862e0743-dea5-4f1d-9bc7-70aa6b558380</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

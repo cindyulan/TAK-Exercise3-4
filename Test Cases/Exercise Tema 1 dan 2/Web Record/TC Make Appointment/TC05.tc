@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case Make Appointment Positive - Verify Make Appointment successfully</description>
+   <name>TC05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d611418f-a3ce-41fa-8d5c-5974c037089e</testCaseGuid>
+</TestCaseEntity>

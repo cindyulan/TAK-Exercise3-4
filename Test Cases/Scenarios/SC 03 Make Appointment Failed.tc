@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SC 03 Make Appointment Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aec57fd5-2e41-4a63-8160-89cf056ca437</testCaseGuid>
+</TestCaseEntity>

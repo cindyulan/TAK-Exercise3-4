@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Positive - Verify history</description>
+   <name>TC07</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8452afa-f123-482f-b66c-b3565ebcfabe</testCaseGuid>
+</TestCaseEntity>

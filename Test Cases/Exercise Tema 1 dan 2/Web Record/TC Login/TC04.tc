@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case login negative - username and password fields are empty</description>
+   <name>TC04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27077d8b-3ab4-43b5-93a7-242f8c9941df</testCaseGuid>
+</TestCaseEntity>

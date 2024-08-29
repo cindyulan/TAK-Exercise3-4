@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case login negative</description>
+   <name>TC02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7559bd3a-6c22-454b-98af-7376f7ad47f8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16077241-e5c0-48b0-82f4-330d62dec3b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bdbe80e-4d2f-4064-a59d-ea3326c0053e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'cindy'</defaultValue>
+      <description></description>
+      <id>16077241-e5c0-48b0-82f4-330d62dec3b2</id>
+      <masked>false</masked>
+      <name>username_failed1</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>0bdbe80e-4d2f-4064-a59d-ea3326c0053e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
